@@ -1,0 +1,82 @@
+list after some pushfronts and backs
+this will also test begin, end, * and ++
+should be 
+2 3 4 5 7
+2 3 4 5 7 
+
+testing erase
+should be
+2 3 5 7
+2 3 5 7 
+
+
+testing copy constructor
+should be
+2 3 5 7
+2 3 5 7 
+
+testing list assignment
+right side
+should be
+1 2 3 5 7 10
+1 2 3 5 7 10 
+left side
+should be
+1 2 3 5 7 10
+1 2 3 5 7 10 
+
+testing empty
+should get
+empty
+empty
+
+testing empty
+should get
+not empty
+not empty
+
+testing size
+should get
+6  0  6
+6  0  6
+
+testing front
+should get
+1
+1
+
+testing pop_front
+should get
+2
+2
+
+testing back
+should get
+10
+10
+
+testing pop_back
+should get
+7
+7
+
+testing pre ++
+should get
+2 2
+2 2
+
+testing post ++
+should get
+2 1
+2 1
+
+testing pre --
+should get
+7 7
+7 7
+
+testing post --
+should get
+7 10
+7 10
+

@@ -1,0 +1,168 @@
+alexis M 8
+matthew M 10
+ethan M 23
+jacob M 28
+joyce F 33
+jones M 44
+madison F 45
+ralph F 56
+pete M 56
+joseph M 56
+emma F 65
+jane F 73
+smith M 74
+mavis M 77
+ashley F 83
+joshua M 85
+thomas F 88
+michael M 89
+sue F 90
+hannah F 92
+emily F 99
+
+Client 1 Info:
+Name: smith
+Number of names wanted: 5
+Gender preference: N
+
+Matches found: 
+jane F 73
+mavis M 77
+ashley F 83
+emma F 65
+joshua M 85
+
+
+Client 2 Info:
+Name: ralph
+Number of names wanted: 6
+Gender preference: N
+
+Matches found: 
+pete M 56
+joseph M 56
+emma F 65
+madison F 45
+jones M 44
+jane F 73
+
+
+Client 3 Info:
+Name: sue
+Number of names wanted: 2
+Gender preference: F
+
+Matches found: 
+hannah F 92
+thomas F 88
+
+
+Client 4 Info:
+Name: mavis
+Number of names wanted: 8
+Gender preference: M
+
+Matches found: 
+smith M 74
+joshua M 85
+michael M 89
+joseph M 56
+pete M 56
+jones M 44
+jacob M 28
+ethan M 23
+
+
+Client 5 Info:
+Name: joyce
+Number of names wanted: 3
+Gender preference: N
+
+Matches found: 
+jacob M 28
+ethan M 23
+jones M 44
+
+
+Client 6 Info:
+Name: jacob
+Number of names wanted: 2
+Gender preference: F
+
+Matches found: 
+joyce F 33
+madison F 45
+
+
+Client 7 Info:
+Name: emily
+Number of names wanted: 9
+Gender preference: N
+
+Matches found: 
+hannah F 92
+sue F 90
+michael M 89
+thomas F 88
+joshua M 85
+ashley F 83
+mavis M 77
+smith M 74
+jane F 73
+
+
+Client 8 Info:
+Name: hannah
+Number of names wanted: 7
+Gender preference: M
+
+Matches found: 
+michael M 89
+joshua M 85
+mavis M 77
+smith M 74
+joseph M 56
+pete M 56
+jones M 44
+
+
+Client 9 Info:
+Name: matthew
+Number of names wanted: 1
+Gender preference: N
+
+Matches found: 
+alexis M 8
+
+
+Client 10 Info:
+Name: ethan
+Number of names wanted: 6
+Gender preference: F
+
+Matches found: 
+joyce F 33
+madison F 45
+ralph F 56
+emma F 65
+jane F 73
+ashley F 83
+
+
+Client 11 Info:
+Name: alexis
+Number of names wanted: 15
+Gender preference: M
+
+Matches found: 
+The amount of people requested exceeds the amount of people in our database!
+
+
+Client 12 Info:
+Name: ashley
+Number of names wanted: 23
+Gender preference: F
+
+Matches found: 
+The amount of people requested exceeds the amount of people in our database!
+

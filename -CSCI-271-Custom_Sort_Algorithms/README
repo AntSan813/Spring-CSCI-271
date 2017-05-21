@@ -1,0 +1,19 @@
+# README
+
+To run this program, enter the following on the command line:
+-------
+$ make
+$ time ./p4 'inputSize' 'algorithm'
+-------
+
+'inputSize' == the amount of lines you desire to read in from file. 
+'algorithm' == desired algorithm you want to use for sort.
+
+Algorithm options (MUST BE ENTERED IN LOWER CASE): 
+'is' == insertion sort
+'ms' == merge sort
+'ss' == selection sort
+'qs' == quick sort
+
+For example, to read in 20,000 lines from the file using merge sort, I would type the following on the command line:
+$ time ./p4 20000 ms

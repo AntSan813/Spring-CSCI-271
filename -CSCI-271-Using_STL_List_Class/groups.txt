@@ -1,0 +1,12 @@
+smith 5 N
+ralph 6 N
+sue 2 F
+mavis 8 M
+joyce 3 N
+jacob 2 F
+emily 9 N
+hannah 7 M
+matthew 1 N
+ethan 6 F
+alexis 15 M
+ashley 23 F
